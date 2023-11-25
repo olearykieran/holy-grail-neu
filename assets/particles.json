@@ -24,7 +24,7 @@
       "value": 0.7,
       "random": true,
       "anim": {
-        "enable": false,
+        "enable": true,
         "speed": 1,
         "opacity_min": 0.4,
         "sync": false
@@ -41,7 +41,7 @@
       }
     },
     "line_linked": {
-      "enable": false
+      "enable": true
     },
     "move": {
       "enable": true,
