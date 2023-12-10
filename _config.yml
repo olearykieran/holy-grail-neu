@@ -21,10 +21,7 @@ email: koleary515@gmail.com
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: olearykieran
-codepen_username: exampleUser
-dev_username: wizardkieran
-linkedin_username: exampleUser
-twitter_username: exampleUser
+linkedin_username: kieran-o-leary
 
 logo_image: "assets/img/hg_transparent.png"
 
@@ -42,7 +39,7 @@ about_me_description: We are a software development hub
 # show_skills_card:
 # > setting this to true, will display the Skills section
 # > setting this to false, will omit the Skills section
-show_skills_card: true
+show_skills_card: false
 # about_me_title: The will be displayed as the title in the Skills section
 skills_title: Skills
 
@@ -50,7 +47,7 @@ skills_title: Skills
 # show_timeline_card:
 # > setting this to true, will display the Timeline section
 # > setting this to false, will omit the Timeline section
-show_timeline_card: true
+show_timeline_card: false
 # timeline_title: The will be displayed as the title in the Timeline section
 timeline_title: Projects
 # cv_download_link: The link where you host your cv.
@@ -61,7 +58,7 @@ cv_download_link: https://example.com/
 # show_projects_card:
 # > setting this to true, will display the Projects section
 # > setting this to false, will omit the Projects section
-show_projects_card: true
+show_projects_card: false
 # show_projects:
 # > setting this to true, will display your listed projects in _data/projects.yml
 # > setting this to false, will omit your listed projects
@@ -71,7 +68,7 @@ projects_title: Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: true
+show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
 
