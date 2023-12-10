@@ -13,21 +13,29 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Video Bookmark (IOS App)
+  descr: "An IOS app that saves timestamped youtube videos as bookmarks"
+  demo: https://apps.apple.com/us/app/video-bookmark/id6473468020
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
+    - tag: Firebase
+    - tag: Netlify
+    - tag: Swift
     - tag: Node
+    - tag: Objective-C
+    - tag: React-Native
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Video Bookmark (Chrome Extension)
+  descr: "An  chrome extension that saves timestamped youtube videos as bookmarks"
+  demo: https://chromewebstore.google.com/detail/video-bookmark/dllihachdhiajmpihooippfingbdbhmg
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: Node
+    - tag: Heroku
+    - tag: Firebase
+    - tag: Express
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: Talisen Construction Web App
+  tags:
+    - tag: Vue
+    - tag: Node
+    - tag: Express
+    - tag: Javascript
