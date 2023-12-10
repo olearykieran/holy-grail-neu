@@ -33,7 +33,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Us
 # about_me_description: This will be displayed under the title.
-about_me_description: We are a software development hub
+about_me_description: We are an ever expanding software development hub. Our mission is to connect highly specialized freelance software engineers with exciting projects and companies!
 
 # SKILLS SECTION
 # show_skills_card:
