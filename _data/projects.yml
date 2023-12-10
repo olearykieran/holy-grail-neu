@@ -34,8 +34,30 @@
     - tag: Express
 
 - name: Talisen Construction Web App
+  descr: "Redisign of front and backend for estimates, leads, and company contacts"
   tags:
     - tag: Vue
     - tag: Node
     - tag: Express
     - tag: Javascript
+
+- name: VetDose Pro
+  descr: "Web app to track dosages for vets, work in progress"
+  tags:
+    - tag: Javascript
+    - tag: HTML
+    - tag: CSS
+    - tag: Firebase
+
+- name: Starlight Kingdom
+  descr: "Secret Pixel Art Video Game Project, details TBA"
+  tags:
+    - tag: Unity
+    - tag: C#
+
+- name: Harvard CS50 Projects
+  descr: "Projects worked on and built for CS50"
+  tags:
+    - tag: Lua
+    - tag: C
+    - tag: Python
